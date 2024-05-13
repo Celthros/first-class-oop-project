@@ -1,3 +1,4 @@
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 class Product {
   constructor(title, image, desc, price) {
     this.title = title;
